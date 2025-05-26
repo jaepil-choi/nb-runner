@@ -9,7 +9,7 @@ To use the provided API functions, you must obtain a `data apikey` and `user key
 
 You can run backtests and live trading using either:
 - your own custom strategies and configuration files, or  
-- the regularly updated strategies and settings shared via the [strategy repository](https://github.com/NeoMatrixAI/strategy).
+- the regularly updated strategies and settings shared via the [strategy](https://github.com/NeoMatrixAI/strategy) repository.
 
 ### 📘 Notebook Usage Flow
 
