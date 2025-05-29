@@ -1,9 +1,9 @@
-# nb-runner
+# nb-runner 🚀
 
 > 📚 This README is available in multiple languages:  
 > - 🇺🇸 English (default) — this file  
-> - 🇰🇷 [한국어](./README_KOR.md)  
-> - 🇨🇳 [中文](./README_CHN.md)  
+> - 🇰🇷 [한국어](./README_KOR.md) 🇰🇷  
+> - 🇨🇳 [中文](./README_CHN.md) 🇨🇳  
 
 This repository is a notebook runner composed of `.ipynb` and `.py` files.
 
@@ -12,7 +12,7 @@ If you adjust the "Mount Google Drive" cell and specify your **personal path**, 
 
 To use the provided API functions, you must obtain a `data apikey` and `user key` from **NeoMatrix**.
 
-You can run backtests and live trading using either:
+You can run backtests and live trading using either:  
 - your own custom strategies and configuration files, or  
 - the regularly updated strategies and settings shared via the [strategy](https://github.com/NeoMatrixAI/strategy) repository.
 
@@ -30,5 +30,6 @@ The typical order of notebook execution is as follows:
    → Executes live auto-trading based on the strategy and final parameters derived from the backtest.
 
 ---
+### ❓ Support
 
 For questions or support, please reach out via the [**NeoMatrix Discord**](https://discord.gg/n6tMdrse)
