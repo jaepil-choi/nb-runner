@@ -1,4 +1,4 @@
-# nb-runner
+# nb-runner 🚀
 
 本仓库是由 `.ipynb` 和 `.py` 文件组成的笔记本运行工具。
 
@@ -25,5 +25,6 @@
    → 基于回测得出的最终参数执行实时自动交易。
 
 ---
+### ❓ 支持
 
 如有问题或需要支持，请通过 [**NeoMatrix Discord**](https://discord.gg/n6tMdrse) 联系我们。
