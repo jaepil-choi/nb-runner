@@ -1,5 +1,10 @@
 # nb-runner
 
+> 📚 This README is available in multiple languages:  
+> - 🇺🇸 English (default) — this file  
+> - 🇰🇷 [한국어](./README_KOR.md)  
+> - 🇨🇳 [中文](./README_CHN.md)  
+
 This repository is a notebook runner composed of `.ipynb` and `.py` files.
 
 It is primarily designed to run in a local environment such as [**Google Colab**](https://colab.research.google.com).  
