@@ -27,4 +27,4 @@
 ---
 ### ❓ 문의 및 지원
 
-질문이나 도움이 필요하신 경우 [**NeoMatrix Discord**](https://discord.gg/n6tMdrse)를 통해 문의해 주세요.
+질문이나 도움이 필요하신 경우 [**NeoMatrix Discord**](https://discord.gg/Xn26Q42DXD)를 통해 문의해 주세요.
