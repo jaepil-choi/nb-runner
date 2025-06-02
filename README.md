@@ -32,4 +32,4 @@ The typical order of notebook execution is as follows:
 ---
 ### ❓ Support
 
-For questions or support, please reach out via the [**NeoMatrix Discord**](https://discord.gg/n6tMdrse)
+For questions or support, please reach out via the [**NeoMatrix Discord**](https://discord.gg/Xn26Q42DXD)
