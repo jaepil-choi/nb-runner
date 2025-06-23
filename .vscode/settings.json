@@ -1,0 +1,41 @@
+{
+    "files.exclude": {
+        "**/data/**": true,
+        "**/parquet_data/**": true
+    },
+    "search.exclude": {
+        "**/data/**": true,
+        "**/parquet_data/**": true,
+        "log/**": true
+    },
+    "files.watcherExclude": {
+        "**/data/**": true,
+        "**/parquet_data/**": true,
+        "log/**": true
+
+    },
+    "python.analysis.exclude": [
+        "**/data/**",
+        "**/parquet_data/**",
+        "**/.specstory/**",
+        "docs/**",
+        "log/**"
+    ],
+    
+    "cursor.general.enableShadowWorkspace": true,
+
+    "specstory.helpUsImprove": false,
+
+    "emeraldwalk.runonsave": {
+      "messages": "[ERROR] Run on save - Run jupytext sync failed",
+      "commands": [
+        {
+        //   "match": "\\.(py|ipynb)$",
+          "match": "\\.(ipynb)$",
+          "notMatch": "\\.venv\\\\.*",
+          "cmd": "poetry run jupytext --sync ${file}",
+          "autoShowOutputPanel": "error"
+        }
+      ]
+    }
+}
