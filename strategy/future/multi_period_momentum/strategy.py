@@ -144,7 +144,7 @@ class MultiPeriodMomentumStrategy(BaseStrategy):
                         adjusted_return = (1 + raw_return) ** (1 / h) - 1
                         summation += adjusted_return
                 
-                momentum[col].iloc[t] = summation / M
+                momentum.loc[momentum.index[t], col] = summation / M
         
         return momentum
     
