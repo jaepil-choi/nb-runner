@@ -219,6 +219,12 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# nb-runner specific
+# Ignore generated backtest reports but keep directory structure
+backtest_reports/*.html
+backtest_reports/*.pdf
+backtest_reports/*.csv
+
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
