@@ -1,0 +1,2 @@
+# This file ensures the backtest_reports directory is preserved in git
+# while the actual generated reports (*.html, *.pdf, *.csv) are ignored 
