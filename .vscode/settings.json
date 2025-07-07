@@ -33,7 +33,8 @@
         //   "match": "\\.(py|ipynb)$",
           "match": "\\.(ipynb)$",
           "notMatch": "\\.venv\\\\.*",
-          "cmd": "poetry run jupytext --sync ${file}",
+          // "cmd": "poetry run jupytext --sync ${file}",
+          "cmd": "powershell.exe -Command \"conda run -n sandbox312 jupytext --sync ${file}\"",
           "autoShowOutputPanel": "error"
         }
       ]
